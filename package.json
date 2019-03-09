@@ -1,0 +1,25 @@
+{
+  "name": "parcel-plugin-elm-assets",
+  "version": "0.0.1",
+  "description": "Resolve assets from Elm code for Parcel",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelo/parcel-plugin-elm-assets.git"
+  },
+  "author": "axelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelo/parcel-plugin-elm-assets/issues"
+  },
+  "homepage": "https://github.com/axelo/parcel-plugin-elm-assets#readme",
+  "peerDependencies": {
+    "parcel-bundler": ">=1.11.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.0"
+  }
+}
