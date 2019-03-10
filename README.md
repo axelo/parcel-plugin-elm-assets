@@ -11,7 +11,7 @@ All assets will get bundled with Parcel the same way as if you had required it f
 ## Installation
 
 ```
-npm install --save-dev parcel-plugin-elm-assets
+npm install --save-dev axelo/parcel-plugin-elm-assets#0.0.1
 ```
 
 ## Usage
