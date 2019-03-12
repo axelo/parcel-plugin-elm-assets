@@ -1,7 +1,7 @@
 {
   "name": "parcel-plugin-elm-assets",
-  "version": "0.0.1",
-  "description": "Resolve assets from Elm code for Parcel",
+  "version": "0.0.2",
+  "description": "Parcel plugin for bundling assets directly from Elm code",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
