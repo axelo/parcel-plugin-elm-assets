@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Parcel 1 is replaced by Parcel 2 that comes a with a new transform api which makes this plugin deprecated.
+
 # parcel-plugin-elm-assets
 
 Parcel plugin for bundling assets (images, svgs etc) directly from Elm code.
